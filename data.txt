@@ -1,0 +1,8 @@
+git clone
+git status
+git add
+git commit -m "msg"
+git push
+git reset --hard
+git pull(traking latest  in current branch)
+git fetch(sync)
